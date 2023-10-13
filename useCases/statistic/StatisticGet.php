@@ -1,6 +1,6 @@
 <?php
 
-namespace statistic;
+namespace useCases\Statistic;
 
 class StatisticGet
 {
